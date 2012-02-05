@@ -1,0 +1,22 @@
+git clone 
+git add .
+git commit -am ""
+git push origin master
+git pull
+
+Ramificaciones
+git branch
+git branch nombre   'crearlo
+git checkout nombre 'usarlo
+git puch origin nombre 'subirlo
+gitk
+git checkout master 'agregar el branch al maser
+git diff master nombre 'ver diferencias
+
+git add .
+git commit -am ""
+git push origin master
+
+git branch -d nombre 'borrarlo
+git push origin nombre 'borrar de github
+git reset-hard origin_HEAD
